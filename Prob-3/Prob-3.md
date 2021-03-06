@@ -1,4 +1,4 @@
-# Programming Assignment 6 - Problem 3
+# Graphics - Problem 3
 
 **Goal**
 - Student performs layout calculations

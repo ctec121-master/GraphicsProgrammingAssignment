@@ -1,8 +1,10 @@
-# Module 5
-#   Programming Assignment 6
-#       Prob-6.py
-
-# <YOUR NAME>
+"""
+CTEC 121
+<date: ex: mm/dd/yyyy>
+<your name>
+<Name: assignment/lab name>
+<Description: assignment/lab description
+"""
 
 def main():
     pass # remove this line 

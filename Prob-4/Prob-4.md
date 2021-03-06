@@ -1,4 +1,4 @@
-# Programming Assignment 6 - Problem 4
+# Graphics - Problem 4
 
 **Goal**
 - Student uses interaction to create picture

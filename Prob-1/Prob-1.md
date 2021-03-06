@@ -1,4 +1,4 @@
-# Programming Assignment 6 - Problem 1
+# Graphics - Problem 1
 
 **Goal**
 

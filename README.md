@@ -1,6 +1,6 @@
-# Module-5-ProgAsgnmt-6-Graphics
+# Graphics Module Problems
 
-This repository contains the files for Programming Assignment 6 on graphics. There are 7 problems:
+This repository contains the files for the module on graphics. There are 7 problems:
 
 1. An exercise in commenting existing code
 2. Update existing code to new specs

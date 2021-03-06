@@ -1,12 +1,15 @@
-# Module 5
-#   Programming Assignment 6
-#       Prob-1.py
-
-# <YOUR NAME>
+"""
+CTEC 121
+<date: ex: mm/dd/yyyy>
+<your name>
+<Name: assignment/lab name>
+<Description: assignment/lab description
+"""
 
 # INSTRUCTIONS:
-#   Insert a comment above each line of code in the program below to describe
-#   what the code does
+#   Update comment block above
+#   Insert a comment above EACH line of code in the program below to describe
+#   what the code does. Make sure your lines are within the 80 column max.
 
 
 from graphics import *

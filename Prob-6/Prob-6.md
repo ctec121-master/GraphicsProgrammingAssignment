@@ -1,4 +1,4 @@
-# Programming Assignment 6 - Problem 6
+# Graphics - Problem 6
 
 **Goal**
 - Gain further experience with graphics objects

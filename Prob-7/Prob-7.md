@@ -1,4 +1,4 @@
-# Programming Assignment 6 - Problem 7
+# Graphics - Problem 7
 
 **Goal**
 - Explore use of different shapes
