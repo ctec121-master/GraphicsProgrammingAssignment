@@ -6,4 +6,4 @@
 
 **Instructions**
 
-- Insert a comment above each line of code in the program to describe what the code does.
+- Insert a comment above **each line** of code in the program to describe what the code does.
